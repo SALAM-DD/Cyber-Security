@@ -1,4 +1,4 @@
-arkdown
+
 # Project 1: Windows Home Lab & SIEM Deployment (Splunk + Sysmon)
 
 ## 📌 Executive Summary
