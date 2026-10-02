@@ -1,3 +1,4 @@
+<img width="1920" height="1078" alt="Search _ Splunk 10 4 4 and 2 more pages - Personal - Microsoft​ Edge 02_10_2026 20_51_50" src="https://github.com/user-attachments/assets/ed0ab501-f629-4572-a009-3651de4a87b0" />
 
 # Project 1: Windows Home Lab & SIEM Deployment (Splunk + Sysmon)
 
